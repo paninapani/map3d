@@ -1,0 +1,32 @@
+{
+  "Sheet1": [
+    {
+      "Date": "2017-09-02T00:00:00.000Z",
+      "Country": "USA",
+      "Description": "DFW-LGA",
+      "Cost": 80,
+      "Category ": "Airfare"
+    },
+    {
+      "Date": "2017-09-02T00:00:00.000Z",
+      "Country": "USA",
+      "Description": "Lyft",
+      "Cost": 14,
+      "Category ": "Transportation"
+    },
+    {
+      "Date": "2017-09-03T00:00:00.000Z",
+      "Country": "USA",
+      "Description": "beer",
+      "Cost": 7,
+      "Category ": "Food"
+    },
+    {
+      "Date": "2017-09-03T00:00:00.000Z",
+      "Country": "USA",
+      "Description": "Cover",
+      "Cost": 20,
+      "Category ": "Entertainment"
+    }
+      ]
+}
